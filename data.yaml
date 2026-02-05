@@ -1,0 +1,21 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 15
+names:
+  - Cracks
+  - Flakings
+  - Joints
+  - Shellings
+  - Spallings
+  - Squats
+  - ballast_loss
+  - broken_fishplate
+  - corrosion
+  - loose_bolt
+  - missing_bolt
+  - rail_joint_gap
+  - rail_wear
+  - sleeper_crack
+  - surface_spalling
