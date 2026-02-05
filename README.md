@@ -204,7 +204,7 @@ This project is available for educational and research purposes.
 
 ## 👥 Authors
 
-- **Josh-1317** - [GitHub](https://github.com/Josh-1317)
+- **Praveenraj1618** - [GitHub](https://github.com/Praveenraj1618)
 
 ## 🙏 Acknowledgments
 
@@ -213,7 +213,7 @@ This project is available for educational and research purposes.
 
 ## 📧 Contact
 
-For questions or support, please open an issue on GitHub or contact: joshikaa04@gmail.com
+For questions or support, please open an issue on GitHub or contact: praveenrajb1618@gmail.com
 
 ---
 
