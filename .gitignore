@@ -6,10 +6,6 @@ valid/
 # Node modules
 node_modules/
 
-# Model weights
-*.pt
-*.pth
-*.weights
 
 # Training outputs
 runs/
